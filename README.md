@@ -10,7 +10,7 @@ This is a NLP text classification based project. Here an LSTM model has been bui
 * Dataset used - https://www.kaggle.com/c/fake-news/data
 
 
-### Accuracy: 99.29%
+### Train accuracy: 99.29%
 ![Graph](https://user-images.githubusercontent.com/76942680/147737045-a8d61bb5-7061-4a51-aa0d-f1468ce294b1.png)
 
 
